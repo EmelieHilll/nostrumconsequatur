@@ -1,0 +1,22 @@
+{
+  "name": "nostrumconsequatur",
+  "version": "1.0.0",
+  "description": "Mailgun wrapper for sending emails from NodeJS",
+  "main": "ts-mailgun.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@types/mailgun-js": "^0.22.3",
+    "@types/node": "^10.17.5",
+    "handlebars": "^4.5.1",
+    "mailgun-js": "^0.22.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmelieHilll/nostrumconsequatur.git"
+  },
+  "author": "DayneSmith",
+  "license": "MIT"
+}
